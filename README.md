@@ -1,6 +1,7 @@
 # ESP32s-tft-1.4-Inch
 Smart Band
 
+
 File List
 
 -Data Sheet ข้อมูลอุปกรณ์ต่างๆ
@@ -12,6 +13,9 @@ File List
 -tft_1.4_st7735 โปรแกรมสำหรับอัพโหลดภาพต่างๆแสดงบน LCD
 
 -Schrematic and Footprint เปิดด้วยเว็บ EasyEDA สำหรับลายวงจร PCB
+
+-Libraly
+
 
 List Component
 
