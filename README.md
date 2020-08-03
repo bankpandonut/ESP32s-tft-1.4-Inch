@@ -16,11 +16,11 @@ File List
 
 -Libraly มี 3 ตัว
 
-    Adafruit_GFX_Library ใช้สำหรับภาพสีบนจอ LCD
+            Adafruit_GFX_Library ใช้สำหรับภาพสีบนจอ LCD
     
-    Adafruit-ST7735-Library-master ใช้สำหรับจอ LCD ที่ Drive ด้วย ST7735
+            Adafruit-ST7735-Library-master ใช้สำหรับจอ LCD ที่ Drive ด้วย ST7735
     
-    SparkFun_MAX3010x_Sensor_Library-master สำหรับ Sensor HR SPO2 Max30102
+            SparkFun_MAX3010x_Sensor_Library-master สำหรับ Sensor HR SPO2 Max30102
 
 ---------------------------------------------------------------------------------------------------------------------------------
 
@@ -44,24 +44,28 @@ List Component
 
 -Capasistor
   
-    3X 10 uF
+            3X 10 uF
     
-    1X 4.7 uF
+            1X 4.7 uF
     
-    4X 0.47 uF
+            4X 0.47 uF
     
-    2X 0.1 uF
+            2X 0.1 uF
 
--1X LED SMD GREEN
+-LED
 
--1X LED SMD RED
+            1X LED SMD GREEN
+
+            1X LED SMD RED
+            
+            1X LED SMD Blue
 
 -Resistor
     
-    1X 1.2 kOhm
+            1X 1.2 kOhm
     
-    2X 1 kOhm
+            2X 1 kOhm
     
-    1X 400 mOhm
+            1X 400 mOhm
     
 ---------------------------------------------------------------------------------------------------------------------------------
